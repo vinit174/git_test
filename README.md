@@ -1,1 +1,1 @@
-# git_test
+This is Vinit's first git project!
